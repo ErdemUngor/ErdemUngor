@@ -8,7 +8,7 @@
 <a href="https://twitter.com/erdemngrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdemngrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/erdem-%c3%bcng%c3%b6r-611b131bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erdem-%c3%bcng%c3%b6r-611b131bb/" height="30" width="40" /></a>
 <a href="https://instagram.com/erdemunrg0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdemunrg0" height="30" width="40" /></a>
-<a href="https://medium.com/erdemungor100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erdemungor100" height="30" width="40" /></a>
+<a href="https://erdemungor100.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erdemungor100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
